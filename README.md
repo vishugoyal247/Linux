@@ -19,3 +19,12 @@
      > - 👉 Using Vim
      > - 👉 Using Globbing and Wild Card
      > - 👉 Using Cockpit
+
+- ## Chapter 3
+     > - 👉  Essential File Management Tasks
+     > - 👉 Finding Files
+     > - 👉 Understanding the Mounts System
+     > - 👉 Understanding Links
+     > - 👉 Working with links
+     > - 👉 Working with tar 
+     > - 👉 Understanding Compression Utilities
