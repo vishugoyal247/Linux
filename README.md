@@ -21,10 +21,18 @@
      > - 👉 Using Cockpit
 
 - ## Chapter 3
-     > - 👉  Essential File Management Tasks
+     > - 👉 Essential File Management Tasks
      > - 👉 Finding Files
      > - 👉 Understanding the Mounts System
      > - 👉 Understanding Links
      > - 👉 Working with links
      > - 👉 Working with tar 
      > - 👉 Understanding Compression Utilities
+
+- ## Chapter 4
+     > - 👉 Understanding common text tools
+     > - 👉 Using grep 
+     > - 👉 Understanding Regular Expression 
+     > - 👉 Using awk
+     > - 👉 Using sed
+   
