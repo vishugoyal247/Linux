@@ -35,4 +35,15 @@
      > - 👉 Understanding Regular Expression 
      > - 👉 Using awk
      > - 👉 Using sed
+
+
+- ## Chapter 5
+     > - 👉 Understanding the Root User
+     > - 👉 Logging into the GUI
+     > - 👉 Logging in to the Console
+     > - 👉 Understanding the virtual terminals
+     > - 👉 Switching Between Virtual Terminals
+     > - 👉 Using su to work as Another User
+     > - 👉 Using sudo to perform Administrator Task 
+     > - 👉 Using ssh to Log in Remotely
    
