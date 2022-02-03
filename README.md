@@ -46,4 +46,14 @@
      > - 👉 Using su to work as Another User
      > - 👉 Using sudo to perform Administrator Task 
      > - 👉 Using ssh to Log in Remotely
+
+- ## Chapter 6
+     > - 👉 Understaning the Need for user Accounts
+     > - 👉 Userstanding User Properties
+     > - 👉 Creating and Managing Users
+     > - 👉 Managing User Default Setting
+     > - 👉 Understanding /etc/passed  and /etc/shadow
+     > - 👉 Understanding Group Membership
+     > - 👉 Creating and Managing Groups
+     > - 👉 Managing Password Properties
    
