@@ -68,7 +68,7 @@
      > - 👉 Understanding ACLs
      > - 👉 Managing ACLs
    
-   - ## Chapter 8
+- ## Chapter 8
      > - 👉 Understanding IPV4 Networking
      > - 👉 Understanding NIC Naming
      > - 👉 Managing Runtime Configuration With IP
