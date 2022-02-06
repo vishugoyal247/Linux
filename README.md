@@ -58,13 +58,22 @@
      > - 👉 Managing Password Properties
 
 - ## Chapter 7
-     👉 Understanding ownership
-     👉 Changing file ownership
-     👉 Understanding basic permission
-     👉 Managing basic permission
-     👉 Understanding umask
-     👉 Understanding special permission
-     👉 Managing special permission
-     👉 Understanding ACLs
-     👉 Managing ACLs
+     > - 👉 Understanding ownership
+     > - 👉 Changing file ownership
+     > - 👉 Understanding basic permission
+     > - 👉 Managing basic permission
+     > - 👉 Understanding umask
+     > - 👉 Understanding special permission
+     > - 👉 Managing special permission
+     > - 👉 Understanding ACLs
+     > - 👉 Managing ACLs
    
+   - ## Chapter 8
+     > - 👉 Understanding IPV4 Networking
+     > - 👉 Understanding NIC Naming
+     > - 👉 Managing Runtime Configuration With IP
+     > - 👉 Understanding RHEL 8 Networking 
+     > - 👉 Managing Persistent Networking with nmcli
+     > - 👉 Managing Persistent Networking with nmtui
+     > - 👉 Verifying Network Configuration Files
+     > - 👉 Testing Network Connections
