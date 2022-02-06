@@ -56,4 +56,15 @@
      > - 👉 Understanding Group Membership
      > - 👉 Creating and Managing Groups
      > - 👉 Managing Password Properties
+
+- ## Chapter 7
+     👉 Understanding ownership
+     👉 Changing file ownership
+     👉 Understanding basic permission
+     👉 Managing basic permission
+     👉 Understanding umask
+     👉 Understanding special permission
+     👉 Managing special permission
+     👉 Understanding ACLs
+     👉 Managing ACLs
    
