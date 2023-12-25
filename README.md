@@ -1,4 +1,4 @@
-## Hi {Learners}! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I am Linux repository 👨‍🎓
+## Hi {Learners}! I am Linux repository 👨‍🎓
 
 - ## Chapter 1 
      > - 👉 Installing RedHat Enterprise Linux Server...
